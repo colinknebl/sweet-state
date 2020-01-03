@@ -1,0 +1,16 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "outDir": "dist",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "lib": [
+            "ESNext",
+            "DOM"
+        ],
+        "target": "ES2017"
+    }
+}
