@@ -1,0 +1,26 @@
+{
+  "name": "sweet-state",
+  "version": "1.0.0",
+  "description": "finite state machine written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinknebl/sweet-state.git"
+  },
+  "keywords": [
+    "state",
+    "machine",
+    "state",
+    "machine",
+    "typescript"
+  ],
+  "author": "Colin Knebl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinknebl/sweet-state/issues"
+  },
+  "homepage": "https://github.com/colinknebl/sweet-state#readme"
+}
