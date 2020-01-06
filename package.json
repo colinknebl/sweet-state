@@ -5,7 +5,9 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "prepare": "tsc"
+    "test": "",
+    "prepare": "tsc",
+    "publish": "npm run test && npm publish"
   },
   "repository": {
     "type": "git",
