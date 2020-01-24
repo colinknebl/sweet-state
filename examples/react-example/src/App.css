@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+[app-state="idle"] {
+  color: #333;
+}
+
+[app-state="loading"] {
+  color: goldenrod;
+}
+
+[app-state="success"] {
+  color: limegreen;
+}
+
+[app-state="success"] button {
+  background: lightgrey;
+  color: darkgrey;
+  pointer-events: none;
+}
+
+[app-state="error"] {
+  color: red;
+}
