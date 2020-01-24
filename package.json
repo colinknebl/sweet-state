@@ -1,13 +1,13 @@
 {
   "name": "sweet-state",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "finite state machine written in TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "",
     "prepare": "tsc",
-    "publish": "npm run test && npm publish"
+    "publish:pkg": "npm run test && npm publish"
   },
   "repository": {
     "type": "git",
