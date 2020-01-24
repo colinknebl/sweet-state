@@ -14,5 +14,8 @@
             "DOM"
         ],
         "target": "ES2017"
-    }
+    },
+    "exclude": [
+        "examples"
+    ]
 }
